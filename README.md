@@ -8,7 +8,7 @@ editor: visual
 
 *Python Data Analysis \| Vending Machines*
 
-<img src="" width="350"/>
+<img src="images/dynamic/nik-albert-pGQpBcylvOA-unsplash.jpg" width="350"/>
 
 <!---::: column-page-inset--->
 ## Project Summary 🗒️
